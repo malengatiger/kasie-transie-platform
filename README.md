@@ -17,9 +17,13 @@ A helper repository to provide links to all the repositories in the Kasie Transi
 [Telemetry provided by Taxi](https://github.com/malengatiger/kasie-transie-car-telemetry/edit/main/README.md)
 
 ### Commuter
+[Commuter App](https://github.com/malengatiger/kasie-transie-commuter-2025)
+
 ### Ambassador 
 [Ambassador App](https://github.com/malengatiger/kasie_transie_ambassador/edit/main/README.md)
+
 ### Marshal
+
 ### Kasie Transie Library
 [Shared library for all Kasie Transie Platform apps](https://github.com/malengatiger/kasie_transie_library/edit/main/README.md)
 
