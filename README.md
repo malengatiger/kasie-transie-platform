@@ -22,6 +22,7 @@ A helper repository to provide links to all the repositories in the Kasie Transi
 [Ambassador App](https://github.com/malengatiger/kasie_transie_ambassador)
 
 ### Marshal
+[Marshal App](https://github.com/malengatiger/kasie-marshal-x100)
 
 ### Kasie Transie Library
 [Shared library for all Kasie Transie Platform apps](https://github.com/malengatiger/kasie_transie_library)
