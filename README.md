@@ -26,13 +26,17 @@ A helper repository to provide links to all the repositories in the Kasie Transi
 
 ### Kasie Transie Library
 [Shared library for all Kasie Transie Platform apps](https://github.com/malengatiger/kasie_transie_library)
-
+---
 # Kasie Transie Platform Implementation
 
 ## Firebase
-
+### Dashboard
 <img width="1863" alt="Screenshot 2025-02-20 at 16 04 34" src="https://github.com/user-attachments/assets/760147dc-8128-400e-8c06-69deb1e51b95" />
+
+### Storage
 <img width="1863" alt="Screenshot 2025-02-20 at 16 05 29" src="https://github.com/user-attachments/assets/d5429317-1ece-4d93-9394-135d6d522039" />
+
+### Authentication
 <img width="1837" alt="Screenshot 2025-02-20 at 16 05 52" src="https://github.com/user-attachments/assets/a42729d6-f4a6-4031-9478-8ef070b4ee91" />
 
 ## Google Cloud
