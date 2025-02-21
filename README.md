@@ -54,7 +54,6 @@ A helper repository to provide links to all the repositories in the Kasie Transi
 
 <img width="1517" alt="Screenshot 2025-02-20 at 16 07 23" src="https://github.com/user-attachments/assets/eca7e33f-f97d-45da-b12a-7d6fe98d9447" />
 <img width="1526" alt="Screenshot 2025-02-20 at 16 08 00" src="https://github.com/user-attachments/assets/f35a6fa5-3596-42d2-9870-6c5e1847b47a" />
-<img width="1521" alt="Screenshot 2025-02-20 at 16 08 39" src="https://github.com/user-attachments/assets/5b12e9f3-4eb9-4eda-9b91-81893aaf11cc" />
 
 ---
 
